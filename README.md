@@ -36,7 +36,7 @@ Once you run the application - the simulator settings Frontend will pop up. Choo
 <ins>Obstacles:</ins> Check to add static obstacles  
 <ins>Scenario:</ins> There are currently two scenarios available for the current study 
 &nbsp; 
-* No Interactions
+* No Interactions (NI)
 * Query-Response-Actions (QRA)
 * Query-Response-Update (QRU)
 * Eavesdrop-Update (EU)
