@@ -29,7 +29,7 @@ Once you run the application - the simulator settings Frontend will pop up. Choo
 
 
 ## Simulator settings panel
-![FrontEnd]()
+![FrontEnd](https://github.com/sanjayovs/IKTBT-Release/blob/master/forReadme/FrontEnd.png)
 
 <ins> Target Type:</ins> There are four target types in the simulator that are colored red, green, yellow and blue and have four corresponding zones at each corner  
 <ins>Target Counts:</ins> The number of targets of each type to be initialized in the simulations.  
