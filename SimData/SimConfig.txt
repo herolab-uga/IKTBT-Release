@@ -1,0 +1,17 @@
+Zones: RGYB
+Target Counts (R,G,Y,B): 25,25,25,25
+Obstacles: False
+Scenario: EU
+Robot Combinations (I,M,R,G,Y,B): 1,1,12,12,12,12
+Coms. Range: 200
+Buffer Duration (EBU Only): -1
+Buffer Size (EBU Only): 0
+Trials: 1
+Iterations Stop: True
+Iteration Duration (i): 20000
+Target % Stop: False
+Target (%): 0
+Record Data: False
+Data Save Path: D:\Cloud Drives\OneDrive\Research\OneDrive\1_Projects\HERO\HERO-IKTBT\Simulator\Release\IKTBT-Release\SimData\
+File Name: 
+Config File Name: 
